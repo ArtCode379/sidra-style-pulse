@@ -1,78 +1,80 @@
 <resources>
     <string name="ddhko_app_name">Sidra Style Pulse</string>
-
-    <!-- shared -->
     <string name="ddhko_price">£%1$.2f</string>
-
-    <!-- top bar titles -->
-    <string name="ddhko_top_bar_home_title">Home/App Title</string>
+    <string name="ddhko_top_bar_home_title">Sidra Style Pulse</string>
     <string name="ddhko_top_bar_cart_title">Cart</string>
-    <string name="ddhko_top_bar_checkout_title">Checkout</string>
+    <string name="ddhko_top_bar_checkout_title">Reserve</string>
     <string name="ddhko_top_bar_orders_title">Orders</string>
     <string name="ddhko_top_bar_settings_title">Settings</string>
     <string name="ddhko_top_bar_product_details_title">Details</string>
-
-    <!-- bottom bar navigation item titles -->
-    <string name="ddhko_bottom_bar_nav_item_home_title">Home</string>
-    <string name="ddhko_bottom_bar_nav_item_cart_title">Cart</string>
+    <string name="ddhko_bottom_bar_nav_item_home_title">Discover</string>
+    <string name="ddhko_bottom_bar_nav_item_cart_title">Bag</string>
     <string name="ddhko_bottom_bar_nav_item_orders_title">Orders</string>
     <string name="ddhko_bottom_bar_nav_item_settings_title">Settings</string>
-
-    <!-- onboarding screen -->
-    <string name="ddhko_page_1_title">Strategic Planning</string>
-    <string name="ddhko_page_2_title">Operational Excellence</string>
-    <string name="ddhko_page_3_title">Change Management</string>
-    <string name="ddhko_page_1_description">Comprehensive strategic analysis and planning that aligns your business objectives with market opportunities and organizational capabilities.</string>
-    <string name="ddhko_page_2_description">Process optimization and operational improvement strategies that enhance efficiency, reduce costs, and drive sustainable performance.</string>
-    <string name="ddhko_page_3_description">Expert guidance through organizational transformation</string>
-    <string name="ddhko_next_button_title">Next</string>
-    <string name="ddhko_start_button_title">Start</string>
+    <string name="ddhko_splash_tagline">Modern pieces, styled your way</string>
+    <string name="ddhko_page_1_title">A wardrobe with a point of view</string>
+    <string name="ddhko_page_2_title">Details make the look</string>
+    <string name="ddhko_page_3_title">Reserve now, collect with ease</string>
+    <string name="ddhko_page_1_description">Discover refined dresses, confident tailoring and versatile layers chosen for memorable everyday style.</string>
+    <string name="ddhko_page_2_description">Finish every outfit with sculptural jewellery and beautifully made bags selected to work beyond one season.</string>
+    <string name="ddhko_page_3_description">Build your edit, confirm your reservation and collect it from our store within 24 hours.</string>
+    <string name="ddhko_next_button_title">Continue</string>
+    <string name="ddhko_start_button_title">Start exploring</string>
     <string name="ddhko_skip_button_title">Skip</string>
-
-    <!-- home/products screen   -->
-    <string name="ddhko_products_state_empty_primary_text">No products available</string>
-
-    <!-- product details screen   -->
-    <string name="ddhko_product_details_state_empty_primary_text">No information available for this product</string>
+    <string name="ddhko_products_state_empty_primary_text">Our next edit is coming soon</string>
+    <string name="ddhko_home_eyebrow">THE NEW EDIT</string>
+    <string name="ddhko_featured_label">FEATURED</string>
+    <string name="ddhko_search_description">Search products</string>
+    <string name="ddhko_category_all">All</string>
+    <string name="ddhko_category_dresses">Dresses</string>
+    <string name="ddhko_category_tops">Tops</string>
+    <string name="ddhko_category_outerwear">Outerwear</string>
+    <string name="ddhko_category_accessories">Accessories</string>
+    <string name="ddhko_product_details_state_empty_primary_text">This piece is no longer available</string>
     <string name="ddhko_product_image_description">Product image</string>
-    <string name="ddhko_button_add_to_cart_label">Add to Cart</string>
-
-    <!-- cart screen -->
-    <string name="ddhko_cart_state_empty_primary_text">Nothing in your cart yet</string>
+    <string name="ddhko_button_add_to_cart_label">Add to Bag</string>
+    <string name="ddhko_added_to_cart">Added to your bag</string>
+    <string name="ddhko_product_care">Considered care</string>
+    <string name="ddhko_product_care_detail">Store away from direct sunlight and follow the garment care label to keep this piece looking its best.</string>
+    <string name="ddhko_cart_state_empty_primary_text">Your bag is ready for something beautiful</string>
+    <string name="ddhko_start_shopping">Explore the collection from the Discover tab</string>
+    <string name="ddhko_bag_title">Your edit</string>
+    <string name="ddhko_total">Total</string>
+    <string name="ddhko_proceed_checkout">Proceed to reservation</string>
     <string name="ddhko_button_place_order_label">Place Order • £%1$.2f</string>
     <string name="ddhko_increase_quantity_icon_description">Increase quantity</string>
     <string name="ddhko_decrease_quantity_icon_description">Decrease quantity</string>
-    <string name="ddhko_delete_item_icon_description">Delete item</string>
-
-    <!-- orders screen -->
-    <string name="ddhko_orders_state_empty_primary_text">You have no orders yet</string>
+    <string name="ddhko_delete_item_icon_description">Remove item</string>
+    <string name="ddhko_orders_state_empty_primary_text">No orders yet</string>
+    <string name="ddhko_orders_heading">Your reservations</string>
     <string name="ddhko_order_number">Order #%1$s</string>
     <string name="ddhko_order_customer">Customer: %1$s %2$s</string>
-
-    <!-- checkout screen -->
-    <string name="ddhko_checkout_text_field_first_name">First Name</string>
-    <string name="ddhko_checkout_text_field_last_name">Last Name</string>
+    <string name="ddhko_order_reserved">RESERVED</string>
+    <string name="ddhko_collection_notice">We will hold this order in store for 24 hours.</string>
+    <string name="ddhko_checkout_text_field_first_name">First name</string>
+    <string name="ddhko_checkout_text_field_last_name">Last name</string>
     <string name="ddhko_checkout_text_field_email">Email</string>
-    <string name="ddhko_button_confirm_order_label">Confirm Order</string>
-
-    <!-- checkout dialog -->
-    <string name="ddhko_checkout_dialog_title">Thank You for Your Order!</string>
-    <string name="ddhko_checkout_success_message">Your order has been successfully placed. Please hold on; our team will contact you shortly.</string>
-    <string name="ddhko_checkout_dialog_confirm">Done</string>
-
-    <!-- settings screen -->
+    <string name="ddhko_button_confirm_order_label">Confirm reservation</string>
+    <string name="ddhko_reserve_heading">Reserve your edit</string>
+    <string name="ddhko_reserve_intro">Enter your contact details so we can prepare every piece for collection.</string>
+    <string name="ddhko_valid_email">Enter a valid email address.</string>
+    <string name="ddhko_collection_title">Store collection</string>
+    <string name="ddhko_collection_detail">After confirmation, your order number and details will appear in Orders. Your selection will be waiting in store for 24 hours.</string>
+    <string name="ddhko_checkout_dialog_title">Your reservation is confirmed</string>
+    <string name="ddhko_checkout_success_message">Your order has been reserved. Find its number and details in Orders; we will hold it in store for the next 24 hours.</string>
+    <string name="ddhko_checkout_dialog_confirm">View order</string>
     <string name="ddhko_settings_screen_company_label">Company</string>
-    <string name="ddhko_settings_screen_version_label">Version</string>
+    <string name="ddhko_settings_screen_version_label">App version</string>
     <string name="ddhko_settings_screen_customer_support_label">Customer Support</string>
-    <string name="ddhko_company_name">Company Name</string>
-    <string name="ddhko_app_version">1.0.0</string>
-    <string name="ddhko_customer_support_link">https://website.org/</string>
-
-    <!-- clear cart dialog -->
+    <string name="ddhko_company_name">SIDRA FASHION LIMITED</string>
+    <string name="ddhko_app_version">1.0</string>
+    <string name="ddhko_customer_support_link">https://sidrafashion.shop</string>
+    <string name="ddhko_settings_heading">Sidra details</string>
+    <string name="ddhko_about_section">About</string>
+    <string name="ddhko_support_section">Support</string>
+    <string name="ddhko_support_copy">Visit our website for customer care, product guidance and store information.</string>
     <string name="ddhko_clear_cart_dialog_title">Clear cart?</string>
     <string name="ddhko_clear_card_dialog_text">Are you sure you want to remove all items from your cart?</string>
     <string name="ddhko_button_confirm_clear_cart">Confirm</string>
     <string name="ddhko_button_cancel_clear_cart">Cancel</string>
-
-    <!--[FIREBASE][notification_channel]-->
 </resources>

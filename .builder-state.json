@@ -1,0 +1,17 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-08-23T22:00:01.176977+00:00",
+  "slug": "sidra-style-pulse",
+  "type": "shop",
+  "package": "sidrafashion.apparel.sidrastylepulse",
+  "prefix": "DDHKO",
+  "app_name": "Sidra Style Pulse",
+  "task_gid": "1217108654138449",
+  "task_name": "GB GW4 C1247",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1213586227413017/task/1217108654138449",
+  "domain": "https://sidrafashion.shop",
+  "company": "SIDRA FASHION LIMITED",
+  "repo_url": "https://github.com/ArtCode379/sidra-style-pulse",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}
